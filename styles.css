@@ -1,11 +1,9 @@
 body {
   font-family: "Roboto Mono", monospace;
   min-height: 400px;
-  background-color: #1c1c1c;
-  background-size: 100vh;
-  background-position: center bottom;
-  background-repeat: no-repeat;
+  background: linear-gradient(68.15deg, #353535 16.62%, #464646 33.59%, #464646 51.78%, #515151 68.7%, #464646 85.61%);
 }
+
 
 .container {
   text-align: center;
@@ -14,7 +12,7 @@ body {
 }
 
 .page-title {
-  color: #daa520;
+  color: rgb(20, 20, 20);
   margin: 0 0 5px;
 }
 
